@@ -14,6 +14,12 @@ app.listen(PORT, () => {
 })
 
 app.get('/products', (req, res) => {
+  res.header('Access-Control-Allow-Origin', '*')
+  res.header(
+    'Access-Control-Allow-Headers',
+    'Origin, X-Requested-With, Content-Type, Accept'
+  )
+  
   try {
     const data = fs.readFileSync(path.join(__dirname, './data.json'))
     const products = JSON.parse(data)
@@ -29,6 +35,12 @@ app.get('/products', (req, res) => {
 })
 
 app.get('/products/:id', (req, res) => {
+  res.header('Access-Control-Allow-Origin', '*')
+  res.header(
+    'Access-Control-Allow-Headers',
+    'Origin, X-Requested-With, Content-Type, Accept'
+  )
+
   try {
     const id = parseInt(req.params.id)
     const data = fs.readFileSync(path.join(__dirname, './data.json'))
