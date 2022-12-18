@@ -1,0 +1,345 @@
+[
+    {
+      "id": 1,
+      "title": "YTTERVAG - Four-poster bed frame",
+      "price": 790,
+      "rating": 4.5,
+      "stock": 32,
+      "brand": "Jonathan Adler",
+      "category": "relax",
+      "description": "You don’t need to live in a castle to sleep like royalty. The timeless and simple expression of this four-poster bed frame in a Scandinavian style fits just as well in a modern home.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/yttervag-four-poster-bed-frame-gray-brown-luroey__1019383_pe831352_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/yttervag-four-poster-bed-frame-gray-brown-luroey__1092110_pe863024_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/yttervag-four-poster-bed-frame-gray-brown-luroey__1014367_pe829632_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/yttervag-four-poster-bed-frame-gray-brown-luroey__1092111_pe863025_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/yttervag-four-poster-bed-frame-gray-brown-luroey__1019382_pe831353_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "GODMORGON/TOLKEN / TÖRNVIKEN - bathroom furniture",
+      "price": 930,
+      "rating": 4.92,
+      "stock": 47,
+      "brand": "AllModern",
+      "category": "bathroom",
+      "description": "A warm expression in dark grey with a round countertop wash-basin that leaves plenty of space for soap and toothbrushes on the counter. The open shelf is perfect for often used items or decorative objects.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/godmorgon-tolken-toernviken-bathroom-furniture-set-of-6-gillburen-dark-gray-marble-effect-brogrund-faucet__1088918_pe861325_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/godmorgon-tolken-toernviken-bathroom-furniture-set-of-6-gillburen-dark-gray-marble-effect-brogrund-faucet__0784220_pe761684_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/godmorgon-tolken-toernviken-bathroom-furniture-set-of-6-gillburen-dark-gray-marble-effect-brogrund-faucet__1067409_pe852732_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/godmorgon-tolken-toernviken-bathroom-furniture-set-of-6-gillburen-dark-gray-marble-effect-brogrund-faucet__1088919_pe861324_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "TARSELE - Extendable table",
+      "price": 670,
+      "rating": 4.8,
+      "stock": 25,
+      "brand": "Burke Decor",
+      "category": "kitchen",
+      "description": "This extendable dining table is a nice mix of warm oak veneer and sturdy solid metal, and is inspired by 1950s industrial design. The table top also hides an extension leaf – perfect when you have guests.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/tarsele-extendable-table-oak-veneer-black__0944977_pe797515_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/tarsele-extendable-table-oak-veneer-black__0916858_pe785432_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/tarsele-extendable-table-oak-veneer-black__1190879_pe900345_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/tarsele-extendable-table-oak-veneer-black__0916857_pe785431_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ENHET-Kitchen",
+      "price": 1500,
+      "rating": 4.63,
+      "stock": 29,
+      "brand": "Benchmade Modern",
+      "category": "kitchen",
+      "description": "Everything is within arm’s reach in this practical kitchen solution. There is room for dicing your veggies and cooking your food – and there is plenty of storage space too.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-gray-frame__1056737_pe848523_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-gray-frame__1056738_pe848522_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-gray-frame__1056983_pe848688_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-gray-frame__1056994_pe848696_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-gray-frame__1056981_pe848687_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Mirror with storage",
+      "price": 65,
+      "rating": 4.65,
+      "stock": 31,
+      "brand": "Burke Decor",
+      "category": "bathroom",
+      "description": "Suitable for use in most rooms, and tested and approved for bathroom use.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/lindbyn-mirror-with-storage-black__0997997_pe822905_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/lindbyn-mirror-with-storage-black__0997371_pe822906_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/lindbyn-mirror-with-storage-black__1014464_ph177700_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/lindbyn-mirror-with-storage-black__0997370_pe822907_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "NORDLI- Bed with headboard and storage",
+      "price": 700,
+      "rating": 4.78,
+      "stock": 48,
+      "brand": "Jonathan Adler",
+      "category": "relax",
+      "description": "There’s plenty of space in the drawers for clothes, extra duvets and sweet dreams – and you can position the headboard’s box and shelf so your favorite book is easy to reach. A perfect combination!",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/nordli-bed-with-headboard-and-storage-white__1101996_pe866817_s5.jpg?f=xl",
+        "https://www.ikea.com/us/en/images/products/nordli-bed-with-headboard-and-storage-white__1101997_pe866824_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/nordli-bed-with-headboard-and-storage-white__0861750_pe677868_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/nordli-bed-with-headboard-and-storage-white__0861761_pe689374_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/nordli-bed-with-headboard-and-storage-white__1151039_pe884742_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "SLATTUM: Upholstered bed frame",
+      "price": 210,
+      "rating": 4.95,
+      "stock": 19,
+      "brand": "Jonathan Adler",
+      "category": "relax",
+      "description": "Upholstered in soft woven fabric that brings a cozy feeling into your bedroom. The headboard is a comfy backrest for late night reading. And what’s more, it all comes in 1 package. Convenient, right?",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/hemnes-bed-frame-white-stain__1101574_pe866748_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/hemnes-bed-frame-white-stain__1101575_pe866749_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/hemnes-bed-frame-white-stain__1101576_pe866750_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/hemnes-bed-frame-white-stain__0451814_ph120418_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/hemnes-bed-frame-white-stain__0637516_pe698353_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "HÄRLANDA sofa",
+      "price": 1050,
+      "rating": 4.9,
+      "stock": 62,
+      "brand": "Benchmade Modern",
+      "category": "relax",
+      "description": "Cozy evenings, lazy days and nice socializing with family and friends – occasions when the super-comfy and deep HÄRLANDA sofa is perfect. You sink softly down and enjoy an embracing feeling in this sofa.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/haerlanda-sofa-inseros-white__0641527_ph149214_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/haerlanda-sofa-inseros-white__0823169_pe669611_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/haerlanda-sofa-inseros-white__0819639_ph166158_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/haerlanda-sofa-inseros-white__0823167_pe669613_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/haerlanda-sofa-inseros-white__0787533_pe763265_s5.jpg?f=xl"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "KIVIK sofa",
+      "price": 750,
+      "rating": 4.7,
+      "stock": 94,
+      "brand": "Castlery",
+      "category": "relax",
+      "description": "Cuddle up in the comfortable KIVIK sofa. The generous size, low armrests and pocket springs with foam that adapts to the body invites you and your guests to many hours of socializing and relaxation.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/kivik-sofa-tibbleby-beige-gray__1056143_pe848278_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/kivik-sofa-tibbleby-beige-gray__1056136_pe848268_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/kivik-sofa-tibbleby-beige-gray__1056140_pe848272_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/kivik-sofa-tibbleby-beige-gray__1056144_pe848277_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/kivik-sofa-tibbleby-beige-gray__1056137_pe848269_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "PAX / GRIMO/VIKEDAL - Wardrobe",
+      "price": 1080,
+      "rating": 4.85,
+      "stock": 26,
+      "brand": "Burke Decor",
+      "category": "relax",
+      "description": "A wardrobe fit for the one that loves folding! A lot of shelving space for most things that can be folded, rolled up or just does not fit in drawers.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/pax-grimo-vikedal-wardrobe-white-gray-mirror-glass__1103639_pe867353_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/pax-grimo-vikedal-wardrobe-white-gray-mirror-glass__1103637_pe867351_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/pax-grimo-vikedal-wardrobe-white-gray-mirror-glass__1080327_pe857965_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "SMÅSTAD - Loft bed",
+      "price": 750,
+      "rating": 4.94,
+      "stock": 17,
+      "brand": "Castlery",
+      "category": "kids",
+      "description": "Your child’s very own space for sleeping, drawing, storing, doing homework and playing with friends. This loft bed combination is like a mini room within a room on only 2 square metres of space.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/smastad-loft-bed-white-white-with-desk-with-3-drawers__0939878_pe794702_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/smastad-loft-bed-white-white-with-desk-with-3-drawers__1055725_ph176424_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/smastad-loft-bed-white-white-with-desk-with-3-drawers__0926037_pe789024_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/smastad-loft-bed-white-pale-pink-with-desk-with-3-drawers__0946954_pe798327_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "MULLFJÄLLET - Conference chair",
+      "price": 230,
+      "rating": 4.83,
+      "stock": 30,
+      "brand": "AllModern",
+      "category": "job",
+      "description": "This swivel chair is kind to your body and nice to look at, with soft lines accentuated by stitched tufting. Enjoy the comfort and feel free to remove the cover and wash when needed.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/mullfjaellet-conference-chair-with-casters-naggen-beige__0964069_pe808863_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/mullfjaellet-conference-chair-with-casters-naggen-beige__0994210_pe833295_s5.jpg?f=xl",
+        "https://www.ikea.com/us/en/images/products/mullfjaellet-conference-chair-with-casters-naggen-beige__0955958_pe804390_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/mullfjaellet-conference-chair-with-casters-naggen-beige__1024155_pe833437_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "ENHET - Kitchen, anthracite",
+      "price": 1350,
+      "rating": 4.85,
+      "stock": 27,
+      "brand": "Burke Decor",
+      "category": "kitchen",
+      "description": "A lovely space to cook and workspace on both sides of the sink giving you plenty of room to prepare food. The ceiling is the limit with the wall frame that lets you showcase your favorite things.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-oak-effect__1059342_pe849589_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-oak-effect__1059343_pe849588_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-oak-effect__1059341_pe849586_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-oak-effect__1056982_pe848689_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "HEMNES / RÄTTVIKEN - Bathroom furniture",
+      "price": 870,
+      "rating": 4.75,
+      "stock": 51,
+      "brand": "AllModern",
+      "category": "bathroom",
+      "description": "A simple, crafted look with Scandinavian appeal combined with modern function like smooth-running drawers and water-saving faucet. The high cabinet with mirror makes it easy to check your entire outfit.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/hemnes-raettviken-bathroom-furniture-set-of-5-gray-hamnskaer-faucet__0920290_pe786951_s5.jpg?f=xl",
+        "https://www.ikea.com/us/en/images/products/hemnes-raettviken-bathroom-furniture-set-of-5-gray-hamnskaer-faucet__0920289_pe786946_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/hemnes-raettviken-bathroom-furniture-set-of-5-gray-hamnskaer-faucet__1084305_pe859585_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/hemnes-raettviken-bathroom-furniture-set-of-5-gray-hamnskaer-faucet__1095808_pe864038_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "SÖDERHAMN - Sectional sofa",
+      "price": 890,
+      "rating": 4.63,
+      "stock": 86,
+      "brand": "Benchmade Modern",
+      "category": "relax",
+      "description": "If you like the stylish airy look, you have to try the deep generous seats. Create your own personal combination of SÖDERHAMN sofa, then sit down and relax – by yourself or together with the whole family.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/soederhamn-sectional-4-seat-corner-with-open-end-fridtuna-light-beige__1057729_pe848942_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/soederhamn-sectional-4-seat-corner-with-open-end-fridtuna-light-beige__1057730_pe848941_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/soederhamn-sectional-4-seat-corner-with-open-end-fridtuna-light-beige__1057685_pe848891_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/soederhamn-sectional-4-seat-corner-with-open-end-fridtuna-light-beige__1057686_pe848895_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/soederhamn-sectional-4-seat-corner-with-open-end-fridtuna-light-beige__1057684_pe848890_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id":16 ,
+      "title": "TROTTEN - Desk sit/stand",
+      "price": 285,
+      "rating":4.86,
+      "stock": 35,
+      "brand": "Burke Decor",
+      "category": "job",
+      "description": "Changing positions from sitting to standing is good for you, and the crank handle allows you to work your arms while adjusting the height. Moving your body makes you both feel and work better.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/trotten-desk-sit-stand-beige-anthracite__1080648_pe858128_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/trotten-desk-sit-stand-beige-anthracite__1192521_pe901126_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/trotten-desk-sit-stand-beige-anthracite__1104439_pe867683_s5.jpg?f=xl",
+        "https://www.ikea.com/us/en/images/products/trotten-desk-sit-stand-beige-anthracite__1071026_pe854849_s5.jpg?f=xl",
+        "https://www.ikea.com/us/en/images/products/trotten-desk-sit-stand-beige-white__1033620_pe837354_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id":17 ,
+      "title": "50",
+      "price": "LÄTT - Children's table and 2 chairs",
+      "rating":4.76,
+      "stock": 92,
+      "brand": "Jonathan Adler",
+      "category": "kids",
+      "description": "With this table and chairs you can easily create a durable arts and crafts corner for your child. The frames are made of solid pine and have a white foiled surface on top that is easy to wipe off.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/laett-childrens-table-and-2-chairs-white-pine__0876334_pe613575_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/laett-childrens-table-and-2-chairs-white-pine__0735856_pe740220_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/laett-childrens-table-and-2-chairs-white-pine__0957156_ph151014_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/laett-childrens-table-and-2-chairs-white-pine__0876324_pe613533_s5.jpg?f=xl"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "ENHET - Kitchen, white",
+      "price": 1096,
+      "rating":4.53,
+      "stock": 75,
+      "brand": "Castlery",
+      "category": "kitchen",
+      "description": "Everything is within arm’s reach in this practical kitchen solution. There is room for dicing your veggies and cooking your food – and there is plenty of storage space too.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-white__1056760_pe848541_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-white__1056761_pe848540_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-white__1116020_pe872328_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/enhet-kitchen-white__0915698_pe784874_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "TROTTEN - Cabinet with sliding doors",
+      "price": 49,
+      "rating":4.87,
+      "stock": 56,
+      "brand": "Benchmade Modern",
+      "category": "job",
+      "description": "TROTTEN double-sided cabinet with open and closed storage is accessible from both sides – perfect as a room divider. You can create a workshop space by mounting TROTTEN notice board to the cabinet.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/trotten-cabinet-with-sliding-doors-white__1038443_pe839681_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/trotten-cabinet-with-sliding-doors-white__1056702_ph181167_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/trotten-cabinet-with-sliding-doors-white__1080604_pe858096_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/trotten-cabinet-with-sliding-doors-white__1020170_pe831821_s5.jpg?f=s"
+      ]
+    },
+    {
+      "id":20,
+      "title": "POÄNG - Kid's armchair",
+      "price": 70,
+      "rating":4.61,
+      "stock": 48,
+      "brand": "AllModern",
+      "category": "kids",
+      "description": "Children feel special and important when they can do what adults do. That's why we created a miniature children’s version of our beloved POÄNG armchair. Now you can sit and relax together - side by side.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/poaeng-kids-armchair-birch-veneer-medskog-dinosaur-pattern__0971808_pe811452_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/poaeng-kids-armchair-birch-veneer-medskog-dinosaur-pattern__0971809_pe811451_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/poaeng-kids-armchair-birch-veneer-medskog-dinosaur-pattern__0953717_pe802880_s5.jpg?f=xl"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "RÅGRUND - Chair with towel rack",
+      "price": 78,
+      "rating":4.98,
+      "stock": 93,
+      "brand": "Castlery",
+      "category": "bathroom",
+      "description": "A seat, a shelf and a towel rack - 3 functions in one clever, space-saving piece. Made from bamboo, RÅGRUND bathroom series is perfectly suited to humid areas like the bathroom.",
+      "image": [
+        "https://www.ikea.com/us/en/images/products/ragrund-chair-with-towel-rack-bamboo__1085267_pe860034_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/ragrund-chair-with-towel-rack-bamboo__0250172_pe379441_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/ragrund-chair-with-towel-rack-bamboo__0380915_pe555778_s5.jpg?f=xl",
+        "https://www.ikea.com/us/en/images/products/ragrund-chair-with-towel-rack-bamboo__0739453_pe741743_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/ragrund-chair-with-towel-rack-bamboo__0863463_pe556111_s5.jpg?f=s"
+      ]
+    }
+  ]
