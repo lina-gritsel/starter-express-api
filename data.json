@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "title": "GODMORGON/TOLKEN / TÖRNVIKEN - bathroom furniture",
+      "title": "GODMORGON - bathroom furniture",
       "price": 930,
       "rating": 4.92,
       "stock": 47,
@@ -108,11 +108,11 @@
       "category": "relax",
       "description": "Upholstered in soft woven fabric that brings a cozy feeling into your bedroom. The headboard is a comfy backrest for late night reading. And what’s more, it all comes in 1 package. Convenient, right?",
       "image": [
-        "https://www.ikea.com/us/en/images/products/hemnes-bed-frame-white-stain__1101574_pe866748_s5.jpg?f=s",
-        "https://www.ikea.com/us/en/images/products/hemnes-bed-frame-white-stain__1101575_pe866749_s5.jpg?f=s",
-        "https://www.ikea.com/us/en/images/products/hemnes-bed-frame-white-stain__1101576_pe866750_s5.jpg?f=s",
-        "https://www.ikea.com/us/en/images/products/hemnes-bed-frame-white-stain__0451814_ph120418_s5.jpg?f=s",
-        "https://www.ikea.com/us/en/images/products/hemnes-bed-frame-white-stain__0637516_pe698353_s5.jpg?f=s"
+        "https://www.ikea.com/us/en/images/products/viskafors-loveseat-lejde-light-beige-birch__1095889_pe864108_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/viskafors-loveseat-lejde-light-beige-birch__1095979_pe864126_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/viskafors-loveseat-lejde-light-beige-birch__1095981_pe864128_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/viskafors-loveseat-lejde-light-beige-birch__1095982_pe864129_s5.jpg?f=s",
+        "https://www.ikea.com/us/en/images/products/viskafors-loveseat-lejde-light-beige-birch__1088067_pe861042_s5.jpg?f=s"
       ]
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "id": 10,
-      "title": "PAX / GRIMO/VIKEDAL - Wardrobe",
+      "title": "VIKEDAL - Wardrobe",
       "price": 1080,
       "rating": 4.85,
       "stock": 26,
@@ -214,7 +214,7 @@
     },
     {
       "id": 14,
-      "title": "HEMNES / RÄTTVIKEN - Bathroom furniture",
+      "title": "HEMNES - Bathroom furniture",
       "price": 870,
       "rating": 4.75,
       "stock": 51,
@@ -264,8 +264,8 @@
     },
     {
       "id":17 ,
-      "title": "50",
-      "price": "LÄTT - Children's table and 2 chairs",
+      "title": "LÄTT - Children's table and 2 chairs",
+      "price": "50",
       "rating":4.76,
       "stock": 92,
       "brand": "Jonathan Adler",
